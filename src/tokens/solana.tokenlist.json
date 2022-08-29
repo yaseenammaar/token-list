@@ -184615,6 +184615,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4nw6G2zNuk3hMtV3eKYVD2Kt5cvxjSsFqdiXZiFKZ2fC",
+      "symbol": "MANY",
+      "name": "OneTwoMany",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/yaseenammaar/mayrepo/main/logo.png",
+      "tags": [
+        "utility-token"
+      ]
     }
   ],
   "version": {
